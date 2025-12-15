@@ -548,7 +548,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Cloud Test 1
+  m_Text: Cloud Test 2
 --- !u!222 &1938121157
 CanvasRenderer:
   m_ObjectHideFlags: 0
